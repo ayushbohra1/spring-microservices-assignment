@@ -74,8 +74,8 @@ mvn spring-boot:run
 - **Create User (POST)** → `http://localhost:8081/users`
   ```json
   {
-    "name": "John Doe",
-    "email": "john@example.com"
+    "name": "Ayush",
+    "email": "ayush@example.com"
   }
   ```
 - **Get User (GET)** → `http://localhost:8081/users/1`
